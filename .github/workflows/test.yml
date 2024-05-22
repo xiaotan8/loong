@@ -38,8 +38,8 @@ jobs:
         
       - name: 提交更改
         run: |
-          git config --local user.email "jaccong@163.com"
-          git config --local user.name "jaccong"
+          git config --local user.email "dantes.wx@gmail.com.com"
+          git config --local user.name "danteswx"
           git add .
           git commit *.txt -m "Automatic update"
           git commit *.m3u -m "Automatic update"
