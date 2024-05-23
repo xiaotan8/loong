@@ -64,7 +64,7 @@ def update_files(accessible_ip_port,ip_port_pattern,ip_port_repl):
     #for file_info in files_to_update:
     try:
          # 读取原始文件内容
-        response = requests.get('https://mirror.ghproxy.com/https://raw.githubusercontent.com/jaccong/loong/main/9.txt')
+        response = requests.get('https://raw.githubusercontent.com/xiaotan8/loong/main/9.txt')
         if updated_content:
             file_content = updated_content
         else:
@@ -86,7 +86,7 @@ def update_files(accessible_ip_port,ip_port_pattern,ip_port_repl):
         
     try:
          # 读取原始文件内容
-        response = requests.get('https://mirror.ghproxy.com/https://raw.githubusercontent.com/jaccong/loong/main/9.m3u')
+        response = requests.get('https://raw.githubusercontent.com/xiaotan8/loong/main/9.m3u')
         if updated_content_3:
             file_content = updated_content_3
         else:
@@ -134,7 +134,7 @@ def findtheone(unique_ips_ports):
 
 # 定义需要更新的文件列表
 files_to_update = [
-    {'url': 'https://mirror.ghproxy.com/https://raw.githubusercontent.com/jaccong/loong/main/9.txt', 'filename': '9.txt'}
+    {'url': 'https://raw.githubusercontent.com/xiaotan8/loong/main/9.txt', 'filename': '9.txt'}
 ]
 
 #定义正则
