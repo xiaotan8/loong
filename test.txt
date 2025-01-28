@@ -1,22 +1,7 @@
 广东频道,#genre#
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 TVBPlus,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
-翡翠台,http://119.125.134.235:9901/tsfile/live/faacts/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-广东影视,http://119.125.134.235:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 央视频道,#genre#
-CCTV8,http://119.125.134.235:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://119.125.134.235:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV怀旧剧场,http://119.125.134.235:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV文化精品,http://119.125.134.235:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV风云音乐,http://119.125.134.235:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 卫视频道,#genre#
-三沙卫视,http://119.125.134.235:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-三沙卫视,http://119.125.134.235:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-云南卫视,http://119.125.134.235:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-云南卫视,http://119.125.134.235:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-海南卫视,http://119.125.134.235:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-甘肃卫视,http://119.125.134.235:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://119.125.134.235:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://119.125.134.235:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-[01/28 12:17]Updated.,#genre#
+[01/28 18:15]Updated.,#genre#
 Auto-update,http:// 
