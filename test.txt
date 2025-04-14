@@ -1,18 +1,10 @@
 广东频道,#genre#
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 TVBPlus,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
-翡翠台,http://119.125.134.161:9901/tsfile/live/faacts/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-广东影视,http://119.125.134.161:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 央视频道,#genre#
-CCTV14,http://119.125.134.161:9901/tsfile/live/0014_2.m3u8?key=txiptv&playlive=1&authid=0
-CCTV怀旧剧场,http://119.125.134.161:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV文化精品,http://119.125.134.161:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
 卫视频道,#genre#
-东方卫视,http://119.125.134.161:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-厦门卫视,http://119.125.134.161:9901/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0
-吉林延边卫视,http://119.125.134.161:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视,http://119.125.134.161:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-海南卫视,http://119.125.134.161:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://119.125.134.161:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://119.125.134.161:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
-[04/14 12:19]Updated.,#genre#
+陕西卫视,http://119.125.134.161:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+[04/14 18:18]Updated.,#genre#
 Auto-update,http:// 
