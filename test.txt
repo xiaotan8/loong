@@ -2,8 +2,6 @@
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 TVBPlus,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 央视频道,#genre#
-CCTV风云音乐,http://59.32.97.103:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 卫视频道,#genre#
-三沙卫视,http://59.32.97.103:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-[04/26 12:18]Updated.,#genre#
+[04/26 18:15]Updated.,#genre#
 Auto-update,http:// 
