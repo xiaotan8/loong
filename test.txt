@@ -2,11 +2,16 @@
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 TVBPlus,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 央视频道,#genre#
+CCTV1,http://119.125.134.187:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://119.125.134.187:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://119.125.134.187:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV世界地理,http://119.125.134.187:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV风云剧场,http://119.125.134.187:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
 卫视频道,#genre#
+兵团卫视,http://119.125.134.187:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 广西卫视,http://119.125.134.187:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-新疆卫视,http://119.125.134.187:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
-甘肃卫视,http://119.125.134.187:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
-[06/18 18:18]Updated.,#genre#
+江西卫视,http://119.125.134.187:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+西藏卫视,http://119.125.134.187:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,http://119.125.134.187:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+[06/19 12:25]Updated.,#genre#
 Auto-update,http:// 
