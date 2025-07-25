@@ -4,16 +4,11 @@ TVBPlus,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8
 翡翠台,http://59.32.97.230:9901/tsfile/live/faacts/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 央视频道,#genre#
 CCTV5,http://59.32.97.230:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://59.32.97.230:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://59.32.97.230:9901/tsfile/live/0014_2.m3u8?key=txiptv&playlive=1&authid=0
 CCTV怀旧剧场,http://59.32.97.230:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV怀旧剧场,http://59.32.97.230:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV文化精品,http://59.32.97.230:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV文化精品,http://59.32.97.230:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
 卫视频道,#genre#
 三沙卫视,http://59.32.97.230:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-三沙卫视,http://59.32.97.230:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林延边卫视,http://59.32.97.230:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-吉林延边卫视,http://59.32.97.230:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-[07/25 12:37]Updated.,#genre#
+[07/25 18:20]Updated.,#genre#
 Auto-update,http:// 
