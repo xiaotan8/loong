@@ -3,5 +3,5 @@
 TVBPlus,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 央视频道,#genre#
 卫视频道,#genre#
-[08/15 12:28]Updated.,#genre#
+[08/15 18:18]Updated.,#genre#
 Auto-update,http:// 
