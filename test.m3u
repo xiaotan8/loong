@@ -1,3 +1,9 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="[09/09 18:17]Updated.",Auto-update
+#EXTINF:-1 tvg-name=大湾区卫视 tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="广东频道",大湾区卫视
+http://119.125.131.148:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name=广东新闻 tvg-logo="https://live.fanmingming.com/tv/广东新闻.png" group-title="广东频道",广东新闻
+http://119.125.131.148:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name=广东少儿 tvg-logo="https://live.fanmingming.com/tv/广东少儿.png" group-title="广东频道",广东少儿
+http://119.125.131.148:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="[09/10 12:18]Updated.",Auto-update
 http:// 
